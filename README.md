@@ -10,11 +10,11 @@ To see VitalFit-ClubHub in action, watch the demo video [here](https://drive.goo
 
 ## Presentation
 
-For a detailed overview of the project, including its architecture and features, view the presentation [here](<LINK-TO-PRESENTATION>).
+For a detailed overview of the project, including its architecture and features, view the presentation [here](https://docs.google.com/presentation/d/1u2Fw0AxOsAvjEJmIJxr9T09imlkzvwQf/edit?usp=sharing&ouid=105676764628506815455&rtpof=true&sd=true).
 
 ## Project Report
 
-For in-depth understanding, including methodologies, technologies used, and challenges overcome, you can read the project report [here](<LINK-TO-PROJECT-REPORT>).
+For in-depth understanding, including methodologies, technologies used, and challenges overcome, you can read the project report [here](https://drive.google.com/file/d/13RwY0Y6dOx2MqRLrHLEaWYu63RcnjnNF/view?usp=drive_link).
 
 ## Description used in CV
 
